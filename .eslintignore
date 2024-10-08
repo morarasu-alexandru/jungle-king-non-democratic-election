@@ -1,0 +1,12 @@
+.idea
+.vscode
+
+node_modules
+package-lock.json
+
+dist
+build
+.next
+
+public
+/public/
